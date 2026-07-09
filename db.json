@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "u-admin",
+      "name": "Admin",
+      "email": "contact.grahicsworld@gmail.com",
+      "password": "admin",
+      "role": "admin",
+      "phone": "+919876543210",
+      "department": "All",
+      "position": "Main Admin",
+      "salaryBase": 12000,
+      "commissionRate": 100
+    }
+  ],
+  "leads": [],
+  "callLogs": [],
+  "supportTickets": [],
+  "autoCallingConfig": {
+    "delaySeconds": 5,
+    "enabled": true
+  },
+  "backups": [],
+  "attendance": [],
+  "leaves": [],
+  "tasks": [],
+  "companyHolidays": []
+}
